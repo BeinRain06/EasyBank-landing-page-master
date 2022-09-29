@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/BeinRain06/EasyBank-landing-page-master.git](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://beinrain06.github.io/EasyBank-landing-page-master/](https://your-live-site-url.com)
 
 ## My process
 
